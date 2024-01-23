@@ -10,8 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/TwistenY" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Alemayeu_tseganew" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/alemayehu-tseganew-953a131b3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/helina-tefera/" height="30" width="40" /></a>
-
+<a href="https://www.linkedin.com/in/alemayehu-tseganew-953a131b3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alemayehu-tseganew-953a131b3" height="30" width="40" /></a>
 <a href="https://www.instagram.com/alexo.bro?igsh=NGVhN2U2NjQ0Yg==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hinaltt" height="30" width="40" /></a>
 
 
