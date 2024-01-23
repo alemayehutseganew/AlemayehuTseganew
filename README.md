@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Alemayehu Tseganew</h1>
 <h3 align="center">A passionate Software Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=helinatefera&label=Profile%20views&color=0e75b6&style=flat" alt="helinatefera" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alemayehutseganew&label=Profile%20views&color=0e75b6&style=flat" alt="alemayehutseganew" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=helinatefera" alt="helinatefera" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alemayehutseganew" alt="alemayehutseganew" /></a> </p>
 
 - 📫 How to reach me **alexozebro@gmail.com**
 
@@ -11,7 +11,7 @@
 <p align="left">
 <a href="https://twitter.com/helina_tefera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="helina_tefera" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/helina-tefera/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/helina-tefera/" height="30" width="40" /></a>
-<a href="https://www.kaggle.com/helinatefera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/helinatefera" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/helinatefera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/alemayehutseganew" height="30" width="40" /></a>
 <a href="https://instagram.com/hinaltt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hinaltt" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/helina1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="helina1" height="30" width="40" /></a>
 </p>
