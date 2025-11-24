@@ -28,7 +28,3 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alemayehutseganew&show_icons=true&locale=en&layout=compact&langs_count=8" alt="alemayehutseganew" />
 </p>
 
-<!-- Contribution Snake -->
-<p align="center">
-  <img src="https://github.com/alemayehutseganew/alemayehutseganew/blob/output/github-contribution-grid-snake.svg" alt="snake game" />
-</p>
