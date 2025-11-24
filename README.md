@@ -23,12 +23,6 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alemayehutseganew&" alt="alemayehutseganew" />
 </p>
 
-<!-- Current Year Commit Graph -->
-<h3 align="center">📊 This Year's Contributions</h3>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alemayehutseganew&theme=github&area=true&hide_border=true&custom_title=My%20Yearly%20Commit%20Graph" alt="Activity Graph" width="90%"/>
-</p>
-
 <!-- Top Languages -->
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alemayehutseganew&show_icons=true&locale=en&layout=compact&langs_count=8" alt="alemayehutseganew" />
@@ -36,5 +30,5 @@
 
 <!-- Contribution Snake -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/alemayehutseganew/alemayehutseganew/output/github-contribution-grid-snake.svg" alt="snake game" />
+  <img src="https://github.com/alemayehutseganew/alemayehutseganew/blob/output/github-contribution-grid-snake.svg" alt="snake game" />
 </p>
