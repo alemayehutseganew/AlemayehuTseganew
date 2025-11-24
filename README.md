@@ -26,10 +26,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=alemayehutseganew&include_all_commits=true&count_private=true" alt="Contribution Streak" width="48%" />
 </p>
 
-<!-- Total Commits All Time -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alemayehutseganew&show_icons=true&locale=en&include_all_commits=true&count_private=true&hide=prs,issues&custom_title=Total+Commits+All+Time" alt="Total Commits" width="60%" />
-</p>
 
 
 
@@ -47,9 +43,5 @@
   <img src="https://ghchart.rshah.org/5783f6/alemayehutseganew" alt="Alemayehu's GitHub Chart" width="90%" />
 </p>
 
-<!-- Contribution Snake -->
-<p align="center">
-  <img src="https://github.com/alemayehutseganew/alemayehutseganew/blob/output/github-contribution-grid-snake.svg" alt="snake game" width="90%" />
-</p>
 
 
