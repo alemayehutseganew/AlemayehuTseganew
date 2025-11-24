@@ -33,11 +33,7 @@
 
 
 
-<!-- All Years Contribution Graph -->
-<h3 align="center">🗓️ All-Time Contributions</h3>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alemayehutseganew&theme=github-compact&area=true&hide_border=true&custom_title=All+Years+Commit+History&color=5783f6&line=5783f6&point=5783f6" alt="All Years Activity Graph" width="90%"/>
-</p>
+
 
 <!-- Top Languages with More Detail -->
 <h3 align="center">💻 Most Used Languages</h3>
@@ -56,10 +52,4 @@
   <img src="https://github.com/alemayehutseganew/alemayehutseganew/blob/output/github-contribution-grid-snake.svg" alt="snake game" width="90%" />
 </p>
 
-<!-- Repository Overview -->
-<h3 align="center">📂 Repository Overview</h3>
-<p align="center">
-  <a href="https://github.com/alemayehutseganew?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alemayehutseganew&repo=alemayehutseganew&theme=default" alt="Profile Repository" />
-  </a>
-</p>
+
