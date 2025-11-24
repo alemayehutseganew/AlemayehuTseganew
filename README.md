@@ -37,11 +37,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alemayehutseganew&show_icons=true&locale=en&layout=compact&langs_count=10&hide_border=true&card_width=400" alt="Top Languages" />
 </p>
 
-<!-- Contribution Calendar All Years -->
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/5783f6/alemayehutseganew" alt="Alemayehu's GitHub Chart" width="90%" />
-</p>
 
 
 
